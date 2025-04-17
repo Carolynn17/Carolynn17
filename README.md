@@ -1,6 +1,5 @@
 Hi there 👋
-Caroline is a Master's student in Computer Science, 👩‍💻👩‍💻fascinated by artificial intelligence and its potential for creating impactful solutions.👩‍💻 <br/>She thrives on solving complex problems, collaborating with peers, and exploring innovative technologies.
-
+Caroline is a Master's student in Computer Science, 👩‍💻👩‍💻fascinated by artificial intelligence and its potential for creating impactful solutions.👩‍💻 <br/>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carolineapio17@gmail.com) 
